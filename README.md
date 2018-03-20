@@ -1,3 +1,8 @@
+# NetworkingProject
+A basic SMPT implementation done for a school project.  
+
+## Compile: 
+
 makefiles included for each:
 ./server: make
 
